@@ -1,2 +1,2 @@
-# hw-c-
+# hw-c++
 C++ homeworks
